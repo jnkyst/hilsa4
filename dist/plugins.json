@@ -1,0 +1,50 @@
+[
+  {
+    "packageName": "com.jnkyst.moviesdrive.hdhub4u",
+    "name": "hdhub4u",
+    "version": 1,
+    "baseUrl": "https://new2.hdhub4u.limo",
+    "description": "Bollywood, Hollywood and Hindi Dubbed Movies & Web Series",
+    "authors": [
+      "phisher",
+      "Akash"
+    ],
+    "languages": [
+      "hi"
+    ],
+    "categories": [
+      "Movie",
+      "TvSeries"
+    ],
+    "url": "https://raw.githubusercontent.com/jnkyst/hilsa4/main/dist/com.jnkyst.moviesdrive.hdhub4u.sky"
+  },
+  {
+    "packageName": "com.jnkyst.moviesdrive.moviesdrive",
+    "name": "moviesdrive",
+    "version": 1,
+    "baseUrl": "https://new2.moviesdrives.my",
+    "domains": [
+      {
+        "name": "new2.moviesdrives.my",
+        "url": "https://new2.moviesdrives.my"
+      },
+      {
+        "name": "moviesdrive.forum",
+        "url": "https://moviesdrive.forum"
+      }
+    ],
+    "description": "Premium VOD Scraper with metadata sync",
+    "authors": [
+      "Akash"
+    ],
+    "languages": [
+      "en",
+      "hi"
+    ],
+    "categories": [
+      "Movie",
+      "TvSeries"
+    ],
+    "url": "https://raw.githubusercontent.com/jnkyst/hilsa4/main/dist/com.jnkyst.moviesdrive.moviesdrive.sky"
+  }
+]
