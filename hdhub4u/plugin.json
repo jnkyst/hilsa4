@@ -1,0 +1,17 @@
+{
+  "packageName": "com.jnkyst.moviesdrive.hdhub4u",
+  "name": "hdhub4u",
+  "version": 1,
+  "baseUrl": "https://new2.hdhub4u.limo",
+  "description": "Bollywood, Hollywood and Hindi Dubbed Movies & Web Series",
+  "authors": [
+    "phisher",
+    "Akash"
+  ],
+  "languages": [
+    "hi"
+  ],
+  "categories": [
+    "Movie",  "TvSeries"
+  ]
+}

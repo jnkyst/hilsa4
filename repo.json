@@ -1,0 +1,9 @@
+{
+  "name": "hilsa4",
+  "packageName": "com.jnkyst.moviesdrive",
+  "description": "SkyStream plugins repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/jnkyst/hilsa4/main/dist/plugins.json"
+  ]
+}
